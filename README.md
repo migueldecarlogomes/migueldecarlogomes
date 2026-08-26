@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:5B0000,70:B91C1C,100:EF4444&height=230&section=header&text=Miguel%20de%20Carlo%20Gomes&fontSize=44&fontColor=FFFFFF&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20em%20forma%C3%A7%C3%A3o%20%7C%20ADS%20%40%20UTP&descAlignY=58&descSize=18" alt="Banner Miguel de Carlo Gomes" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:2E2E2E,70:8C8C8C,100:FFFFFF&height=230&section=header&text=Miguel%20de%20Carlo%20Gomes&fontSize=44&fontColor=FFFFFF&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20em%20forma%C3%A7%C3%A3o%20%7C%20ADS%20%40%20UTP&descAlignY=58&descSize=18" alt="Banner Miguel de Carlo Gomes" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=23&duration=2600&pause=900&color=EF4444&center=true&vCenter=true&width=850&lines=Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Full+Stack+Developer+em+forma%C3%A7%C3%A3o;Back-end+com+C%23+%7C+Front-end+com+Next.js+%2B+TypeScript;Estagi%C3%A1rio+de+Desenvolvimento+%40+BNE" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=23&duration=2600&pause=900&color=FFFFFF&center=true&vCenter=true&width=850&lines=Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Full+Stack+Developer+em+forma%C3%A7%C3%A3o;Back-end+com+C%23+%7C+Front-end+com+Next.js+%2B+TypeScript;Estagi%C3%A1rio+de+Desenvolvimento+%40+BNE" alt="Typing animation" />
 
 <br>
 
@@ -11,13 +11,13 @@
 <br><br>
 
 <a href="https://github.com/migueldecarlogomes">
-  <img src="https://img.shields.io/badge/GitHub-migueldecarlogomes-0A0A0A?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=B91C1C" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub-migueldecarlogomes-0A0A0A?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=404040" alt="GitHub" />
 </a>
 <a href="https://www.linkedin.com/in/migueldecarlogomes/">
-  <img src="https://img.shields.io/badge/LinkedIn-Miguel%20de%20Carlo%20Gomes-0A0A0A?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHRleHQgeD0iMTIiIHk9IjE4IiBmb250LWZhbWlseT0iQXJpYWwsSGVsdmV0aWNhLHNhbnMtc2VyaWYiIGZvbnQtd2VpZ2h0PSI3MDAiIGZvbnQtc2l6ZT0iMTUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZpbGw9IiNmZmZmZmYiPmluPC90ZXh0Pjwvc3ZnPgo%3D&labelColor=B91C1C" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-Miguel%20de%20Carlo%20Gomes-0A0A0A?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHRleHQgeD0iMTIiIHk9IjE4IiBmb250LWZhbWlseT0iQXJpYWwsSGVsdmV0aWNhLHNhbnMtc2VyaWYiIGZvbnQtd2VpZ2h0PSI3MDAiIGZvbnQtc2l6ZT0iMTUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZpbGw9IiNmZmZmZmYiPmluPC90ZXh0Pjwvc3ZnPgo%3D&labelColor=404040" alt="LinkedIn" />
 </a>
 <a href="mailto:migueldecarlogomes22@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contato-0A0A0A?style=for-the-badge&logo=gmail&logoColor=FFFFFF&labelColor=B91C1C" alt="Email" />
+  <img src="https://img.shields.io/badge/Email-Contato-0A0A0A?style=for-the-badge&logo=gmail&logoColor=FFFFFF&labelColor=404040" alt="Email" />
 </a>
 
 </div>
@@ -82,12 +82,12 @@ var miguel = new
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats-miguel.vercel.app/api?username=migueldecarlogomes&show_icons=true&theme=dark&hide_border=true&bg_color=0D0D0D&title_color=EF4444&icon_color=EF4444&text_color=FFFFFF" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats-miguel.vercel.app/api/top-langs/?username=migueldecarlogomes&layout=donut&theme=dark&hide_border=true&bg_color=0D0D0D&title_color=EF4444&text_color=FFFFFF" alt="Linguagens mais usadas" />
+<img height="165" src="https://github-readme-stats-miguel.vercel.app/api?username=migueldecarlogomes&show_icons=true&theme=dark&hide_border=true&bg_color=0D0D0D&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF" alt="GitHub Stats" />
+<img height="165" src="https://github-readme-stats-miguel.vercel.app/api/top-langs/?username=migueldecarlogomes&layout=donut&theme=dark&hide_border=true&bg_color=0D0D0D&title_color=FFFFFF&text_color=FFFFFF" alt="Linguagens mais usadas" />
 
 <br>
 
-<img width="100%" src="https://github-readme-activity-graph-miguel-neon.vercel.app/graph?username=migueldecarlogomes&theme=react-dark&hide_border=true&bg_color=0D0D0D&color=EF4444&line=EF4444&point=FFFFFF" alt="Gráfico de atividade" />
+<img width="100%" src="https://github-readme-activity-graph-miguel-neon.vercel.app/graph?username=migueldecarlogomes&theme=react-dark&hide_border=true&bg_color=0D0D0D&color=FFFFFF&line=FFFFFF&point=FFFFFF" alt="Gráfico de atividade" />
 
 </div>
 
@@ -95,7 +95,7 @@ var miguel = new
 
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/migueldecarlogomes/migueldecarlogomes/main/profile-3d-contrib/profile-custom-red.svg" alt="3D Contribution Calendar" />
+<img width="100%" src="https://raw.githubusercontent.com/migueldecarlogomes/migueldecarlogomes/main/profile-3d-contrib/profile-custom-white.svg" alt="3D Contribution Calendar" />
 
 </div>
 
@@ -133,10 +133,10 @@ Consolidar minha base como **desenvolvedor Full Stack**, aprofundar C#/.NET no b
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2800&pause=900&color=EF4444&center=true&vCenter=true&width=760&lines=Aprendendo+todos+os+dias.;Construindo+meu+portf%C3%B3lio.;Full+Stack+em+evolu%C3%A7%C3%A3o." alt="Footer typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2800&pause=900&color=FFFFFF&center=true&vCenter=true&width=760&lines=Aprendendo+todos+os+dias.;Construindo+meu+portf%C3%B3lio.;Full+Stack+em+evolu%C3%A7%C3%A3o." alt="Footer typing animation" />
 
 <br><br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:EF4444,30:B91C1C,70:5B0000,100:000000&height=140&section=footer&animation=twinkling" alt="Footer wave" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,30:8C8C8C,70:2E2E2E,100:000000&height=140&section=footer&animation=twinkling" alt="Footer wave" />
 
 </div>
