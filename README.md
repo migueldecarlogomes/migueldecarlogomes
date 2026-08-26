@@ -95,11 +95,9 @@ var miguel = new
 
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/migueldecarlogomes/migueldecarlogomes/main/profile-3d-contrib/profile-custom-white.svg" alt="3D Contribution Calendar" />
+<img width="100%" src="https://raw.githubusercontent.com/migueldecarlogomes/migueldecarlogomes/main/profile-3d-contrib/profile-custom-white-wave.svg" alt="3D Contribution Calendar" />
 
 </div>
-
-> Essa imagem é gerada automaticamente pelo workflow `profile-3d-contrib.yml`. Ela só aparece depois da primeira execução (veja o passo a passo abaixo).
 
 ## 🎯 Objetivo
 

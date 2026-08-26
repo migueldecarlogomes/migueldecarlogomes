@@ -1,17 +1,20 @@
 {
-  "type": "normal",
-  "fileName": "profile-custom-white.svg",
+  "type": "rainbow",
+  "fileName": "profile-custom-white-wave.svg",
   "backgroundColor": "#0a0a0a",
   "foregroundColor": "#ffffff",
   "strongColor": "#ffffff",
   "weakColor": "#4d4d4d",
   "radarColor": "#ffffff",
   "growingAnimation": true,
-  "contribColors": [
-    "#1a1a1a",
-    "#4d4d4d",
-    "#808080",
-    "#bfbfbf",
-    "#ffffff"
-  ]
+  "saturation": "8%",
+  "contribLightness": [
+    "25%",
+    "40%",
+    "55%",
+    "70%",
+    "90%"
+  ],
+  "duration": "10s",
+  "hueRatio": -7
 }
