@@ -101,20 +101,6 @@ var miguel = new
 
 > Essa imagem é gerada automaticamente pelo workflow `profile-3d-contrib.yml`. Ela só aparece depois da primeira execução (veja o passo a passo abaixo).
 
-## 🐍 Snake das contribuições
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/migueldecarlogomes/migueldecarlogomes/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/migueldecarlogomes/migueldecarlogomes/output/github-contribution-grid-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/migueldecarlogomes/migueldecarlogomes/output/github-contribution-grid-snake.svg" />
-</picture>
-
-</div>
-
-> Gerada automaticamente pelo workflow `generate-snake.yml`, publicada na branch `output`.
-
 ## 🎯 Objetivo
 
 Consolidar minha base como **desenvolvedor Full Stack**, aprofundar C#/.NET no back-end e Next.js/TypeScript no front-end, e seguir evoluindo através de projetos reais — na faculdade, no estágio e nos meus próprios repositórios.
