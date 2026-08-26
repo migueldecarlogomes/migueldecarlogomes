@@ -95,7 +95,7 @@ var miguel = new
 
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/migueldecarlogomes/migueldecarlogomes/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Calendar" />
+<img width="100%" src="https://raw.githubusercontent.com/migueldecarlogomes/migueldecarlogomes/main/profile-3d-contrib/profile-custom-red.svg" alt="3D Contribution Calendar" />
 
 </div>
 
