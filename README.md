@@ -14,10 +14,10 @@
   <img src="https://img.shields.io/badge/GitHub-migueldecarlogomes-0A0A0A?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=B91C1C" alt="GitHub" />
 </a>
 <a href="https://www.linkedin.com/in/migueldecarlogomes/">
-  <img src="https://img.shields.io/badge/LinkedIn-Miguel%20de%20Carlo%20Gomes-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=EF4444" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-Miguel%20de%20Carlo%20Gomes-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&labelColor=B91C1C" alt="LinkedIn" />
 </a>
 <a href="mailto:migueldecarlogomes22@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contato-0A0A0A?style=for-the-badge&logo=gmail&logoColor=EF4444" alt="Email" />
+  <img src="https://img.shields.io/badge/Email-Contato-0A0A0A?style=for-the-badge&logo=gmail&logoColor=FFFFFF&labelColor=B91C1C" alt="Email" />
 </a>
 
 </div>
