@@ -24,30 +24,33 @@
 
 ---
 
-## 🩸 Sobre mim
+## 🔥 Sobre mim
 
 Sou **Miguel de Carlo Gomes**, estudante de **Análise e Desenvolvimento de Sistemas** na **Universidade Tuiuti do Paraná (UTP)**, com ensino médio completo pelo **Colégio Adventista Boa Vista**. Atualmente sou **estagiário de desenvolvimento na BNE**, onde aplico na prática o que venho estudando.
 
 Trabalho principalmente com **C# no back-end** e **Next.js + TypeScript no front-end**, construindo aplicações completas do banco de dados à interface. Curioso por natureza, estou sempre testando novas ferramentas e melhorando a forma como escrevo código.
 
-```typescript
-const miguel = {
-  name: "Miguel de Carlo Gomes",
-  role: "Full Stack Developer (em formação)",
-  education: {
-    course: "Análise e Desenvolvimento de Sistemas",
-    university: "Universidade Tuiuti do Paraná (UTP)",
-    highSchool: "Colégio Adventista Boa Vista",
-  },
-  currentJob: "Estagiário de Desenvolvimento @ BNE",
-  stack: {
-    backend: ["C#", ".NET"],
-    frontend: ["Next.js", "TypeScript", "React", "HTML", "CSS", "JavaScript"],
-    tools: ["Git", "GitHub", "VS Code"],
-  },
-  focus: "Evoluir como dev Full Stack, projeto a projeto",
-  funFact: "Café forte e código limpo ☕🩸",
-} as const;
+```csharp
+var miguel = new
+{
+    Name = "Miguel de Carlo Gomes",
+    Role = "Full Stack Developer (em formação)",
+    Education = new
+    {
+        Course = "Análise e Desenvolvimento de Sistemas",
+        University = "Universidade Tuiuti do Paraná (UTP)",
+        HighSchool = "Colégio Adventista Boa Vista"
+    },
+    CurrentJob = "Estagiário de Desenvolvimento @ BNE",
+    Stack = new
+    {
+        Backend = new[] { "C#", ".NET" },
+        Frontend = new[] { "Next.js", "TypeScript", "React", "HTML", "CSS", "JavaScript" },
+        Tools = new[] { "Git", "GitHub", "VS Code" }
+    },
+    Focus = "Evoluir como dev Full Stack, projeto a projeto",
+    FunFact = "Café forte e código limpo ☕🔥"
+};
 ```
 
 ## ⚙️ Stack atual
