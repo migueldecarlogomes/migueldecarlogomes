@@ -80,12 +80,12 @@ const miguel = {
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats-migueldecarlogo.vercel.app/api?username=migueldecarlogomes&show_icons=true&theme=dark&hide_border=true&bg_color=0D0D0D&title_color=EF4444&icon_color=EF4444&text_color=FFFFFF" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats-migueldecarlogo.vercel.app/api/top-langs/?username=migueldecarlogomes&layout=donut&theme=dark&hide_border=true&bg_color=0D0D0D&title_color=EF4444&text_color=FFFFFF" alt="Linguagens mais usadas" />
+<img height="165" src="https://github-readme-stats-miguel.vercel.app/api?username=migueldecarlogomes&show_icons=true&theme=dark&hide_border=true&bg_color=0D0D0D&title_color=EF4444&icon_color=EF4444&text_color=FFFFFF" alt="GitHub Stats" />
+<img height="165" src="https://github-readme-stats-miguel.vercel.app/api/top-langs/?username=migueldecarlogomes&layout=donut&theme=dark&hide_border=true&bg_color=0D0D0D&title_color=EF4444&text_color=FFFFFF" alt="Linguagens mais usadas" />
 
 <br>
 
-<img width="100%" src="https://github-readme-activity-graph-miguel.vercel.app/graph?username=migueldecarlogomes&theme=react-dark&hide_border=true&bg_color=0D0D0D&color=EF4444&line=EF4444&point=FFFFFF" alt="Gráfico de atividade" />
+<img width="100%" src="https://github-readme-activity-graph-miguel-neon.vercel.app/graph?username=migueldecarlogomes&theme=react-dark&hide_border=true&bg_color=0D0D0D&color=EF4444&line=EF4444&point=FFFFFF" alt="Gráfico de atividade" />
 
 </div>
 
