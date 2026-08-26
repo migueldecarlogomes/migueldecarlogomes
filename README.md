@@ -6,7 +6,7 @@
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,nextjs,cs,git,github&theme=dark&perline=8" alt="Stack" />
+<img src="https://skillicons.dev/icons?i=cs,dotnet,ts,js,html,css,nextjs,git,github&theme=dark&perline=9" alt="Stack" />
 
 <br><br>
 
