@@ -11,13 +11,13 @@
 <br><br>
 
 <a href="https://github.com/migueldecarlogomes">
-  <img src="https://img.shields.io/badge/GitHub-migueldecarlogomes-0A0A0A?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=404040" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub-migueldecarlogomes-0A0A0A?style=for-the-badge&logo=github&logoColor=000000&labelColor=FFFFFF" alt="GitHub" />
 </a>
 <a href="https://www.linkedin.com/in/migueldecarlogomes/">
-  <img src="https://img.shields.io/badge/LinkedIn-Miguel%20de%20Carlo%20Gomes-0A0A0A?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHRleHQgeD0iMTIiIHk9IjE4IiBmb250LWZhbWlseT0iQXJpYWwsSGVsdmV0aWNhLHNhbnMtc2VyaWYiIGZvbnQtd2VpZ2h0PSI3MDAiIGZvbnQtc2l6ZT0iMTUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZpbGw9IiNmZmZmZmYiPmluPC90ZXh0Pjwvc3ZnPgo%3D&labelColor=404040" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-Miguel%20de%20Carlo%20Gomes-0A0A0A?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHRleHQgeD0iMTIiIHk9IjE4IiBmb250LWZhbWlseT0iQXJpYWwsSGVsdmV0aWNhLHNhbnMtc2VyaWYiIGZvbnQtd2VpZ2h0PSI3MDAiIGZvbnQtc2l6ZT0iMTUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZpbGw9IiMwMDAwMDAiPmluPC90ZXh0Pjwvc3ZnPgo%3D&labelColor=FFFFFF" alt="LinkedIn" />
 </a>
 <a href="mailto:migueldecarlogomes22@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contato-0A0A0A?style=for-the-badge&logo=gmail&logoColor=FFFFFF&labelColor=404040" alt="Email" />
+  <img src="https://img.shields.io/badge/Email-Contato-0A0A0A?style=for-the-badge&logo=gmail&logoColor=000000&labelColor=FFFFFF" alt="Email" />
 </a>
 
 </div>
