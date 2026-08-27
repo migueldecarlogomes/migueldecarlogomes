@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1280" height="850" viewBox="0 0 1280 850"><style>* { font-family: "Ubuntu", "Helvetica", "Arial", sans-serif; }
 .fill-fg { fill: #ffffff; }
 .stroke-fg { stroke: #ffffff; }
-.fill-bg { fill: #0a0a0a; }
-.stroke-bg { stroke: #0a0a0a; }
+.fill-bg { fill: #0d0d0d; }
+.stroke-bg { stroke: #0d0d0d; }
 .fill-strong { fill: #ffffff; }
 .fill-weak { fill: #5c5c5c; }
 .stroke-weak { stroke: #5c5c5c; }
