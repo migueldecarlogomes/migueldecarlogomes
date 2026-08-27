@@ -21,6 +21,35 @@ jobs:
           USERNAME: ${{ github.repository_owner }}
           SETTING_JSON: profile-3d-settings.json
 
+      - name: Forçar legenda de linguagens em branco
+        run: |
+          python3 - <<'EOF'
+          import re
+
+          path = "profile-3d-contrib/profile-custom-white-wave.svg"
+          with open(path, "r", encoding="utf-8") as f:
+              content = f.read()
+
+          # Cores que já usamos de propósito (fundo, texto/forte, fraco) — tudo o
+          # que não estiver nessa lista é cor "de linguagem" gerada pela action e
+          # deve virar branco.
+          allowed = {"#2b2b2b", "#ffffff", "#5c5c5c"}
+
+          def replace_attr(match):
+              color = "#" + match.group(1)
+              return match.group(0) if color.lower() in allowed else 'fill="#ffffff"'
+
+          def replace_style(match):
+              color = "#" + match.group(1)
+              return match.group(0) if color.lower() in allowed else "fill: #ffffff;"
+
+          content = re.sub(r'fill="#([0-9a-fA-F]{6})"', replace_attr, content)
+          content = re.sub(r'fill:\s*#([0-9a-fA-F]{6});', replace_style, content)
+
+          with open(path, "w", encoding="utf-8") as f:
+              f.write(content)
+          EOF
+
       - name: Commit & Push
         run: |
           git config user.name github-actions
