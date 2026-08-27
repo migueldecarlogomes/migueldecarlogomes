@@ -33,7 +33,7 @@ jobs:
           # Cores que já usamos de propósito (fundo, texto/forte, fraco) — tudo o
           # que não estiver nessa lista é cor "de linguagem" gerada pela action e
           # deve virar branco.
-          allowed = {"#0a0a0a", "#ffffff", "#5c5c5c"}
+          allowed = {"#0d0d0d", "#ffffff", "#5c5c5c"}
 
           def replace_attr(match):
               color = "#" + match.group(1)
