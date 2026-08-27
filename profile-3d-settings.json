@@ -1,5 +1,5 @@
 {
-  "type": "normal",
+  "type": "rainbow",
   "fileName": "profile-custom-white-wave.svg",
   "backgroundColor": "#2b2b2b",
   "foregroundColor": "#ffffff",
@@ -7,11 +7,14 @@
   "weakColor": "#5c5c5c",
   "radarColor": "#ffffff",
   "growingAnimation": true,
-  "contribColors": [
-    "#3d3d3d",
-    "#595959",
-    "#808080",
-    "#a6a6a6",
-    "#d9d9d9"
-  ]
+  "saturation": "0%",
+  "contribLightness": [
+    "25%",
+    "40%",
+    "55%",
+    "70%",
+    "90%"
+  ],
+  "duration": "10s",
+  "hueRatio": -7
 }
