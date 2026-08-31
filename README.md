@@ -6,7 +6,7 @@
 
 <br>
 
-<img height="48" src="https://skillicons.dev/icons?i=cs,dotnet,ts,js,html,css,nextjs,git&theme=dark&perline=8" alt="Stack" /> <img height="48" width="48" src="https://raw.githubusercontent.com/migueldecarlogomes/migueldecarlogomes/main/assets/azure-devops-icon.svg" alt="Azure DevOps" /> <img height="48" src="https://skillicons.dev/icons?i=github&theme=dark&perline=1" alt="Stack" />
+<img height="48" src="https://skillicons.dev/icons?i=cs,dotnet,ts,js,html,css,nextjs,git&theme=dark&perline=8" alt="Stack" />&nbsp;&nbsp;<img height="48" width="48" src="https://raw.githubusercontent.com/migueldecarlogomes/migueldecarlogomes/main/assets/azure-devops-icon.svg" alt="Azure DevOps" />&nbsp;&nbsp;<img height="48" src="https://skillicons.dev/icons?i=github&theme=dark&perline=1" alt="Stack" />
 
 <br><br>
 
