@@ -7,7 +7,7 @@
 <br>
 
 <img height="48" src="https://skillicons.dev/icons?i=cs,dotnet,ts,js,html,css,nextjs,git&theme=dark&perline=8" alt="Stack" />
-<img height="48" src="https://img.shields.io/badge/-0078D4?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4Ij48cGF0aCBmaWxsPSIjZmZmZmZmIiBkPSJNMTIwLjg5IDI4LjQ0NXY2OS4yNjJsLTI4LjQ0NSAyMy4zMjQtNDQuMDktMTYuMDd2MTUuOTNMMjMuMzk1IDg4LjI1bDcyLjc0NiA1LjY4OFYzMS41NzRaTTk2LjY0IDMxLjkzIDU1LjgyIDcuMTF2MTYuMjg1TDE4LjM0OCAzNC40MTggNy4xMDkgNDguODUydjMyLjc4NWwxNi4wNzUgNy4xMVY0Ni43MThabTAgMCIvPjwvc3ZnPg%3D%3D&logoColor=white" alt="Azure DevOps" />
+<img height="48" width="48" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4Ij48cmVjdCB3aWR0aD0iMTI4IiBoZWlnaHQ9IjEyOCIgcng9IjI0IiBmaWxsPSIjMDA3OEQ0Ii8+PGcgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMTYsMTYpIHNjYWxlKDAuNzUpIj48cGF0aCBmaWxsPSIjZmZmZmZmIiBkPSJNMTIwLjg5IDI4LjQ0NXY2OS4yNjJsLTI4LjQ0NSAyMy4zMjQtNDQuMDktMTYuMDd2MTUuOTNMMjMuMzk1IDg4LjI1bDcyLjc0NiA1LjY4OFYzMS41NzRaTTk2LjY0IDMxLjkzIDU1LjgyIDcuMTF2MTYuMjg1TDE4LjM0OCAzNC40MTggNy4xMDkgNDguODUydjMyLjc4NWwxNi4wNzUgNy4xMVY0Ni43MThabTAgMCIvPjwvZz48L3N2Zz4=" alt="Azure DevOps" />
 <img height="48" src="https://skillicons.dev/icons?i=github&theme=dark&perline=1" alt="Stack" />
 
 <br><br>
