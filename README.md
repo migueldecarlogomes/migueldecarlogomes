@@ -74,6 +74,7 @@ var miguel = new
 
 ![Claude](https://img.shields.io/badge/Claude-DE7356?style=for-the-badge&logo=claude&logoColor=white)
 ![JetBrains Rider](https://img.shields.io/badge/Rider-FF318C?style=for-the-badge&logo=rider&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D4?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4Ij48cGF0aCBmaWxsPSIjZmZmZmZmIiBkPSJNMTIwLjg5IDI4LjQ0NXY2OS4yNjJsLTI4LjQ0NSAyMy4zMjQtNDQuMDktMTYuMDd2MTUuOTNMMjMuMzk1IDg4LjI1bDcyLjc0NiA1LjY4OFYzMS41NzRaTTk2LjY0IDMxLjkzIDU1LjgyIDcuMTF2MTYuMjg1TDE4LjM0OCAzNC40MTggNy4xMDkgNDguODUydjMyLjc4NWwxNi4wNzUgNy4xMVY0Ni43MThabTAgMCIvPjwvc3ZnPg%3D%3D)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
