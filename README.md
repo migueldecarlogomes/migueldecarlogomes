@@ -44,8 +44,8 @@ var miguel = new
     CurrentJob = "Estagiário de Desenvolvimento @ BNE",
     Stack = new
     {
-        Backend = new[] { "C#", ".NET" },
-        Tools = new[] { "Git", "GitHub", "VS Code" }
+        Backend = new[] { "C#", ".NET", "Git" },
+        Tools = new[] { "Claude", "Rider", "Azure", "GitHub" }
     },
     Focus = "Evoluir como dev Backend, projeto a projeto",
     FunFact = "Café forte e código limpo ☕🔥"
