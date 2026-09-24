@@ -6,7 +6,7 @@
 
 <br>
 
-<img height="48" src="https://skillicons.dev/icons?i=cs,dotnet,git&theme=dark&perline=3" alt="Stack" />&nbsp;&nbsp;<img height="48" width="48" src="https://raw.githubusercontent.com/migueldecarlogomes/migueldecarlogomes/main/assets/claude-icon.svg" alt="Claude" />&nbsp;&nbsp;<img height="48" src="https://skillicons.dev/icons?i=rider&theme=dark&perline=1" alt="Rider" />&nbsp;&nbsp;<img height="48" width="48" src="https://raw.githubusercontent.com/migueldecarlogomes/migueldecarlogomes/main/assets/azure-devops-icon.svg" alt="Azure" />&nbsp;&nbsp;<img height="48" src="https://skillicons.dev/icons?i=github&theme=dark&perline=1" alt="GitHub" />
+<img height="48" src="https://skillicons.dev/icons?i=cs,dotnet,git&theme=dark&perline=3" alt="Stack" />&nbsp;&nbsp;<img height="48" width="48" src="https://raw.githubusercontent.com/migueldecarlogomes/migueldecarlogomes/main/assets/claude-icon.svg" alt="Claude" />&nbsp;&nbsp;<img height="48" width="48" src="https://raw.githubusercontent.com/migueldecarlogomes/migueldecarlogomes/main/assets/rider-icon.svg" alt="Rider" />&nbsp;&nbsp;<img height="48" width="48" src="https://raw.githubusercontent.com/migueldecarlogomes/migueldecarlogomes/main/assets/azure-devops-icon.svg" alt="Azure" />&nbsp;&nbsp;<img height="48" src="https://skillicons.dev/icons?i=github&theme=dark&perline=1" alt="GitHub" />
 
 <br><br>
 
@@ -104,7 +104,7 @@ Consolidar minha base como **desenvolvedor Backend**, aprofundar C# e .NET, e se
 
 | LinkedIn | E-mail | Currículo |
 | --- | --- | --- |
-| [migueldecarlogomes](https://www.linkedin.com/in/migueldecarlogomes/) | [migueldecarlogomes22@gmail.com](mailto:migueldecarlogomes22@gmail.com) | [Miguel](https://github.com/migueldecarlogomes/migueldecarlogomes/blob/main/assets/curriculo.pdf) |
+| [migueldecarlogomes](https://www.linkedin.com/in/migueldecarlogomes/) | [migueldecarlogomes22@gmail.com](mailto:migueldecarlogomes22@gmail.com) | [miguelgomes](https://github.com/migueldecarlogomes/migueldecarlogomes/blob/main/assets/curriculo.pdf) |
 
 </div>
 
