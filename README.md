@@ -1,12 +1,12 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:2E2E2E,70:8C8C8C,100:FFFFFF&height=230&section=header&text=Miguel%20de%20Carlo%20Gomes&fontSize=44&fontColor=FFFFFF&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20em%20forma%C3%A7%C3%A3o%20%7C%20ADS%20%40%20UTP&descAlignY=58&descSize=18" alt="Banner Miguel de Carlo Gomes" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:2E2E2E,70:8C8C8C,100:FFFFFF&height=230&section=header&text=Miguel%20de%20Carlo%20Gomes&fontSize=44&fontColor=FFFFFF&animation=twinkling&fontAlignY=35&desc=Backend%20Developer%20em%20forma%C3%A7%C3%A3o%20%7C%20ADS%20%40%20UTP&descAlignY=58&descSize=18" alt="Banner Miguel de Carlo Gomes" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=23&duration=2600&pause=900&color=FFFFFF&center=true&vCenter=true&width=850&lines=Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Full+Stack+Developer+em+forma%C3%A7%C3%A3o;Back-end+com+C%23+%7C+Front-end+com+Next.js+%2B+TypeScript;Estagi%C3%A1rio+de+Desenvolvimento+%40+BNE" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=23&duration=2600&pause=900&color=FFFFFF&center=true&vCenter=true&width=850&lines=Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Backend+Developer+em+forma%C3%A7%C3%A3o;Back-end+com+C%23+e+.NET;Estagi%C3%A1rio+de+Desenvolvimento+%40+BNE" alt="Typing animation" />
 
 <br>
 
-<img height="48" src="https://skillicons.dev/icons?i=cs,dotnet,ts,js,html,css,nextjs,git&theme=dark&perline=8" alt="Stack" />&nbsp;&nbsp;<img height="48" width="48" src="https://raw.githubusercontent.com/migueldecarlogomes/migueldecarlogomes/main/assets/azure-devops-icon.svg" alt="Azure DevOps" />&nbsp;&nbsp;<img height="48" src="https://skillicons.dev/icons?i=github&theme=dark&perline=1" alt="Stack" />
+<img height="48" src="https://skillicons.dev/icons?i=cs,dotnet,git&theme=dark&perline=3" alt="Stack" />&nbsp;&nbsp;<img height="48" width="48" src="https://raw.githubusercontent.com/migueldecarlogomes/migueldecarlogomes/main/assets/azure-devops-icon.svg" alt="Azure DevOps" />&nbsp;&nbsp;<img height="48" src="https://skillicons.dev/icons?i=github&theme=dark&perline=1" alt="Stack" />
 
 <br><br>
 
@@ -28,13 +28,13 @@
 
 Sou **Miguel de Carlo Gomes**, estudante de **Análise e Desenvolvimento de Sistemas** na **Universidade Tuiuti do Paraná (UTP)**, com ensino médio completo pelo **Colégio Adventista Boa Vista**. Atualmente sou **estagiário de desenvolvimento na BNE**, onde aplico na prática o que venho estudando.
 
-Trabalho principalmente com **C# no back-end** e **Next.js + TypeScript no front-end**, construindo aplicações completas do banco de dados à interface. Curioso por natureza, estou sempre testando novas ferramentas e melhorando a forma como escrevo código.
+Trabalho principalmente com **C# e .NET no back-end**, construindo soluções robustas do banco de dados às APIs. Curioso por natureza, estou sempre testando novas ferramentas e melhorando a forma como escrevo código.
 
 ```csharp
 var miguel = new
 {
     Name = "Miguel de Carlo Gomes",
-    Role = "Full Stack Developer (em formação)",
+    Role = "Backend Developer (em formação)",
     Education = new
     {
         Course = "Análise e Desenvolvimento de Sistemas",
@@ -45,10 +45,9 @@ var miguel = new
     Stack = new
     {
         Backend = new[] { "C#", ".NET" },
-        Frontend = new[] { "Next.js", "TypeScript", "React", "HTML", "CSS", "JavaScript" },
         Tools = new[] { "Git", "GitHub", "VS Code" }
     },
-    Focus = "Evoluir como dev Full Stack, projeto a projeto",
+    Focus = "Evoluir como dev Backend, projeto a projeto",
     FunFact = "Café forte e código limpo ☕🔥"
 };
 ```
@@ -59,11 +58,6 @@ var miguel = new
 
 ![C#](https://img.shields.io/badge/C%23-953CAD?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4Ij48cGF0aCBkPSJNMTE3LjUgMzMuNWwuMy0uMmMtLjYtMS4xLTEuNS0yLjEtMi40LTIuNkw2Ny4xIDIuOWMtLjgtLjUtMS45LS43LTMuMS0uNy0xLjIgMC0yLjMuMy0zLjEuN2wtNDggMjcuOWMtMS43IDEtMi45IDMuNS0yLjkgNS40djU1LjdjMCAxLjEuMiAyLjMuOSAzLjRsLS4yLjFjLjUuOCAxLjIgMS41IDEuOSAxLjlsNDguMiAyNy45Yy44LjUgMS45LjcgMy4xLjcgMS4yIDAgMi4zLS4zIDMuMS0uN2w0OC0yNy45YzEuNy0xIDIuOS0zLjUgMi45LTUuNFYzNi4xYy4xLS44IDAtMS43LS40LTIuNnptLTUzLjUgNzBjLTIxLjggMC0zOS41LTE3LjctMzkuNS0zOS41UzQyLjIgMjQuNSA2NCAyNC41YzE0LjcgMCAyNy41IDguMSAzNC4zIDIwbC0xMyA3LjVDODEuMSA0NC41IDczLjEgMzkuNSA2NCAzOS41Yy0xMy41IDAtMjQuNSAxMS0yNC41IDI0LjVzMTEgMjQuNSAyNC41IDI0LjVjOS4xIDAgMTcuMS01IDIxLjMtMTIuNGwxMi45IDcuNmMtNi44IDExLjgtMTkuNiAxOS44LTM0LjIgMTkuOHpNMTE1IDYyaC0zLjJsLS45IDRoNC4xdjVoLTVsLTEuMiA2aC00LjlsMS4yLTZoLTMuOGwtMS4yIDZoLTQuOGwxLjItNkg5NHYtNWgzLjVsLjktNEg5NHYtNWg1LjNsMS4yLTZoNC45bC0xLjIgNmgzLjhsMS4yLTZoNC44bC0xLjIgNmgyLjJ2NXptLTEyLjcgNGgzLjhsLjktNGgtMy44eiIgZmlsbD0iI2ZmZmZmZiIvPjwvc3ZnPg%3D%3D)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
@@ -102,7 +96,7 @@ var miguel = new
 
 ## 🎯 Objetivo
 
-Consolidar minha base como **desenvolvedor Full Stack**, aprofundar C#/.NET no back-end e Next.js/TypeScript no front-end, e seguir evoluindo através de projetos reais — na faculdade, no estágio e nos meus próprios repositórios.
+Consolidar minha base como **desenvolvedor Backend**, aprofundar C# e .NET, e seguir evoluindo através de projetos reais — na faculdade, no estágio e nos meus próprios repositórios.
 
 ## 📬 Contato
 
@@ -118,7 +112,7 @@ Consolidar minha base como **desenvolvedor Full Stack**, aprofundar C#/.NET no b
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2800&pause=900&color=FFFFFF&center=true&vCenter=true&width=760&lines=Aprendendo+todos+os+dias.;Construindo+meu+portf%C3%B3lio.;Full+Stack+em+evolu%C3%A7%C3%A3o." alt="Footer typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2800&pause=900&color=FFFFFF&center=true&vCenter=true&width=760&lines=Aprendendo+todos+os+dias.;Construindo+meu+portf%C3%B3lio.;Backend+em+evolu%C3%A7%C3%A3o." alt="Footer typing animation" />
 
 <br><br>
 
