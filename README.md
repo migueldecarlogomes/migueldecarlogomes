@@ -73,20 +73,7 @@ var miguel = new
 
 </div>
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats-miguel.vercel.app/api?username=migueldecarlogomes&show_icons=true&theme=dark&hide_border=true&bg_color=0D0D0D&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats-miguel.vercel.app/api/top-langs/?username=migueldecarlogomes&layout=donut&theme=dark&hide_border=true&bg_color=0D0D0D&title_color=FFFFFF&text_color=FFFFFF" alt="Linguagens mais usadas" />
-
-<br>
-
-<img width="100%" src="https://github-readme-activity-graph-miguel-neon.vercel.app/graph?username=migueldecarlogomes&theme=react-dark&hide_border=true&bg_color=0D0D0D&color=FFFFFF&line=FFFFFF&point=FFFFFF" alt="Gráfico de atividade" />
-
-</div>
-
-## 🧊 Contribuições em 3D
+## 📊 Contribuições em 3D
 
 <div align="center">
 
