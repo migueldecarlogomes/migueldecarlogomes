@@ -16,8 +16,8 @@
 <a href="https://www.linkedin.com/in/migueldecarlogomes/">
   <img src="https://img.shields.io/badge/LinkedIn-Miguel%20de%20Carlo%20Gomes-0A0A0A?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHRleHQgeD0iMTIiIHk9IjE4IiBmb250LWZhbWlseT0iQXJpYWwsSGVsdmV0aWNhLHNhbnMtc2VyaWYiIGZvbnQtd2VpZ2h0PSI3MDAiIGZvbnQtc2l6ZT0iMTUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZpbGw9IiMwMDAwMDAiPmluPC90ZXh0Pjwvc3ZnPgo%3D&labelColor=D4D4D4" alt="LinkedIn" />
 </a>
-<a href="mailto:migueldecarlogomes22@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contato-0A0A0A?style=for-the-badge&logo=gmail&logoColor=000000&labelColor=D4D4D4" alt="Email" />
+<a href="https://github.com/migueldecarlogomes/migueldecarlogomes/blob/main/assets/curriculo.pdf" target="_blank">
+  <img src="https://img.shields.io/badge/Curr%C3%ADculo-PDF-0A0A0A?style=for-the-badge&logo=adobeacrobatreader&logoColor=000000&labelColor=D4D4D4" alt="Currículo" />
 </a>
 
 </div>
@@ -102,9 +102,9 @@ Consolidar minha base como **desenvolvedor Backend**, aprofundar C# e .NET, e se
 
 <div align="center">
 
-| LinkedIn | E-mail | Portfólio |
+| LinkedIn | E-mail | Currículo |
 | --- | --- | --- |
-| [migueldecarlogomes](https://www.linkedin.com/in/migueldecarlogomes/) | [migueldecarlogomes22@gmail.com](mailto:migueldecarlogomes22@gmail.com) | Em construção 🚧 |
+| [migueldecarlogomes](https://www.linkedin.com/in/migueldecarlogomes/) | [migueldecarlogomes22@gmail.com](mailto:migueldecarlogomes22@gmail.com) | [Visualizar Currículo (PDF)](https://github.com/migueldecarlogomes/migueldecarlogomes/blob/main/assets/curriculo.pdf) |
 
 </div>
 
