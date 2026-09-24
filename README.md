@@ -6,7 +6,7 @@
 
 <br>
 
-<img height="48" src="https://skillicons.dev/icons?i=cs,dotnet,git&theme=dark&perline=3" alt="Stack" />&nbsp;&nbsp;<img height="48" width="48" src="https://raw.githubusercontent.com/migueldecarlogomes/migueldecarlogomes/main/assets/azure-devops-icon.svg" alt="Azure DevOps" />&nbsp;&nbsp;<img height="48" src="https://skillicons.dev/icons?i=github&theme=dark&perline=1" alt="Stack" />
+<img height="48" src="https://skillicons.dev/icons?i=cs,dotnet,git&theme=dark&perline=3" alt="Stack" />&nbsp;&nbsp;<img height="48" width="48" src="https://raw.githubusercontent.com/migueldecarlogomes/migueldecarlogomes/main/assets/claude-icon.svg" alt="Claude" />&nbsp;&nbsp;<img height="48" src="https://skillicons.dev/icons?i=rider&theme=dark&perline=1" alt="Rider" />&nbsp;&nbsp;<img height="48" width="48" src="https://raw.githubusercontent.com/migueldecarlogomes/migueldecarlogomes/main/assets/azure-devops-icon.svg" alt="Azure" />&nbsp;&nbsp;<img height="48" src="https://skillicons.dev/icons?i=github&theme=dark&perline=1" alt="GitHub" />
 
 <br><br>
 
@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-Miguel%20de%20Carlo%20Gomes-0A0A0A?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHRleHQgeD0iMTIiIHk9IjE4IiBmb250LWZhbWlseT0iQXJpYWwsSGVsdmV0aWNhLHNhbnMtc2VyaWYiIGZvbnQtd2VpZ2h0PSI3MDAiIGZvbnQtc2l6ZT0iMTUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZpbGw9IiMwMDAwMDAiPmluPC90ZXh0Pjwvc3ZnPgo%3D&labelColor=D4D4D4" alt="LinkedIn" />
 </a>
 <a href="https://github.com/migueldecarlogomes/migueldecarlogomes/blob/main/assets/curriculo.pdf" target="_blank">
-  <img src="https://img.shields.io/badge/Curr%C3%ADculo-PDF-0A0A0A?style=for-the-badge&logo=adobeacrobatreader&logoColor=000000&labelColor=D4D4D4" alt="Currículo" />
+  <img src="https://img.shields.io/badge/Curr%C3%ADculo-Miguel-0A0A0A?style=for-the-badge&logo=adobeacrobatreader&logoColor=000000&labelColor=D4D4D4" alt="Currículo" />
 </a>
 
 </div>
@@ -104,7 +104,7 @@ Consolidar minha base como **desenvolvedor Backend**, aprofundar C# e .NET, e se
 
 | LinkedIn | E-mail | Currículo |
 | --- | --- | --- |
-| [migueldecarlogomes](https://www.linkedin.com/in/migueldecarlogomes/) | [migueldecarlogomes22@gmail.com](mailto:migueldecarlogomes22@gmail.com) | [Visualizar Currículo (PDF)](https://github.com/migueldecarlogomes/migueldecarlogomes/blob/main/assets/curriculo.pdf) |
+| [migueldecarlogomes](https://www.linkedin.com/in/migueldecarlogomes/) | [migueldecarlogomes22@gmail.com](mailto:migueldecarlogomes22@gmail.com) | [Miguel](https://github.com/migueldecarlogomes/migueldecarlogomes/blob/main/assets/curriculo.pdf) |
 
 </div>
 
