@@ -28,7 +28,7 @@
 
 Sou **Miguel de Carlo Gomes**, estudante de **Análise e Desenvolvimento de Sistemas** na **Universidade Tuiuti do Paraná (UTP)**, com ensino médio completo pelo **Colégio Adventista Boa Vista**. Atualmente sou **estagiário de desenvolvimento na BNE**, onde aplico na prática o que venho estudando.
 
-Trabalho principalmente com **C# e .NET no back-end**, construindo soluções robustas do banco de dados às APIs. Curioso por natureza, estou sempre testando novas ferramentas e melhorando a forma como escrevo código.
+No dia a dia trabalho com **C# e .NET no back-end**, desenvolvendo APIs com ASP.NET Core e lidando com bancos como SQL Server e PostgreSQL. Na rotina da equipe, utilizo o Azure DevOps para acompanhar sprints em Scrum, abrir Pull Requests e rodar pipelines.
 
 ```csharp
 var miguel = new
@@ -96,7 +96,7 @@ var miguel = new
 
 ## 🎯 Objetivo
 
-Consolidar minha base como **desenvolvedor Backend**, aprofundar C# e .NET, e seguir evoluindo através de projetos reais — na faculdade, no estágio e nos meus próprios repositórios.
+Consolidar minha base como **desenvolvedor Backend**, aprofundar C# e .NET, e seguir evoluindo através de projetos reais na faculdade, no estágio e nos meus próprios repositórios.
 
 ## 📬 Contato
 
